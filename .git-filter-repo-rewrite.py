@@ -27,3 +27,9 @@ def commit_callback(commit):
         ts = (new.strftime('%Y-%m-%d %H:%M:%S') + ' +0000').encode('utf-8')
         commit.author_date = ts
         commit.committer_date = ts
+
+# [2019-10-28] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2019-10-28] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2019-10-28] (Perf) schedule note: Document Cypress findings for Perf
