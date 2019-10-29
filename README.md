@@ -19,6 +19,9 @@ Comprehensive accessibility testing support with automated a11y checks using axe
 ### CI/CD Integration
 Robust CI/CD integration with parallel test execution, retry mechanisms, and detailed reporting for stable test runs.
 
+### API Testing
+Enhanced API testing capabilities with request/response validation, authentication testing, and endpoint coverage analysis.
+
 ## Installation
 
 ```bash
