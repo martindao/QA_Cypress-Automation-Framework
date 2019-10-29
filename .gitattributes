@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# [2019-10-29] (a11y) schedule note: Refactor Cypress support utils for a11y
