@@ -44,3 +44,5 @@ jobs:
         name: cypress-screenshots
         path: cypress/screenshots
         if-no-files-found: ignore
+
+# [2019-10-29] (UI) schedule note: Improve CI stability for UI suite
