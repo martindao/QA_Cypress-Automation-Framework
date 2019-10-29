@@ -16,6 +16,9 @@ This framework includes comprehensive performance testing capabilities using Cyp
 ### Accessibility Testing
 Comprehensive accessibility testing support with automated a11y checks using axe-core integration with Cypress.
 
+### CI/CD Integration
+Robust CI/CD integration with parallel test execution, retry mechanisms, and detailed reporting for stable test runs.
+
 ## Installation
 
 ```bash
