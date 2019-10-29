@@ -13,6 +13,9 @@ A comprehensive Cypress automation framework for testing web applications.
 ### Performance Testing
 This framework includes comprehensive performance testing capabilities using Cypress. Performance testing helps identify bottlenecks and optimize application speed.
 
+### Accessibility Testing
+Comprehensive accessibility testing support with automated a11y checks using axe-core integration with Cypress.
+
 ## Installation
 
 ```bash
