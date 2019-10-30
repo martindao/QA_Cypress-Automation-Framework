@@ -25,6 +25,9 @@ Enhanced API testing capabilities with request/response validation, authenticati
 ### UI Testing
 Comprehensive UI testing framework with visual regression testing, responsive design validation, and cross-browser compatibility checks.
 
+### Security Testing
+Advanced security testing features including vulnerability scanning, authentication bypass testing, and security headers validation.
+
 ## Installation
 
 ```bash
