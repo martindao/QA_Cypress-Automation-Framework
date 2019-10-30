@@ -11,3 +11,5 @@ coverage/
 mochawesome-report/
 .env
 *.tgz
+
+# [2019-10-30] (a11y) schedule note: Add Cypress a11y test coverage
