@@ -46,3 +46,5 @@ jobs:
         if-no-files-found: ignore
 
 # [2019-10-29] (UI) schedule note: Improve CI stability for UI suite
+
+# [2019-10-30] (API) schedule note: Refactor Cypress support utils for API
