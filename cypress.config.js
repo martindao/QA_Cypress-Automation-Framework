@@ -60,3 +60,5 @@ module.exports = defineConfig({
     },
   },
 })
+
+# [2019-10-31] (Security) schedule note: Improve CI stability for Security suite
