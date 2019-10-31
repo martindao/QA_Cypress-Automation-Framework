@@ -18,3 +18,5 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+
+# [2019-10-31] (API) schedule note: Refactor Cypress support utils for API
