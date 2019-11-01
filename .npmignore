@@ -13,3 +13,5 @@ mochawesome-report/
 *.tgz
 
 # [2019-10-30] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2019-11-01] (Perf) schedule note: Document Cypress findings for Perf
