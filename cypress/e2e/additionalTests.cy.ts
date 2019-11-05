@@ -113,3 +113,5 @@ describe('Additional Tests', () => {
 
   // Add more tests as needed
 });
+
+# [2019-11-05] (Perf) schedule note: Improve CI stability for Perf suite
