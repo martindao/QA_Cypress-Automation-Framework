@@ -69,3 +69,5 @@ npm run test:security
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
+
+- [2019-11-05] (API) schedule note: Refactor Cypress support utils for API
