@@ -163,3 +163,5 @@ describe('UI Authentication Tests', function () {
         cy.get('nav').should('contain', 'Your Feed')
     })
 })
+
+# [2019-11-06] (Security) schedule note: Document Cypress findings for Security
