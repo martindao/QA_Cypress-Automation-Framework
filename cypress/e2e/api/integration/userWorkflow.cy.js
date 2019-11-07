@@ -76,3 +76,5 @@ describe('API Integration Tests - User Workflow', () => {
     })
   })
 })
+
+# [2019-11-07] (UI) schedule note: Improve CI stability for UI suite
