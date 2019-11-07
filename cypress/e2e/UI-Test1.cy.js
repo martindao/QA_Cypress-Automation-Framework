@@ -151,3 +151,5 @@ describe('UI Test Suite - Cypress Kitchen Sink Example', () => {
         cy.get('script').should('have.length.lessThan', 20) // Reasonable script count
     })
 })
+
+# [2019-11-07] (a11y) schedule note: Add Cypress a11y test coverage
