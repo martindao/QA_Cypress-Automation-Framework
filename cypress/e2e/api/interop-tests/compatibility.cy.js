@@ -63,3 +63,4 @@ describe('[Interop] API Compatibility', () => {
     })
   })
 })
+# [2019-11-07] (Security) schedule note: Document Cypress findings for Security
