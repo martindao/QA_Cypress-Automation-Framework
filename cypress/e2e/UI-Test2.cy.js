@@ -211,3 +211,5 @@ describe('UI Test Suite - Cypress Querying Examples', () => {
     })
 })
 # [2019-11-04] (API) schedule note: Document Cypress findings for API
+
+# [2019-11-08] (API) schedule note: Document Cypress findings for API
