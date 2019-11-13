@@ -47,3 +47,5 @@ describe('API Performance Tests', () => {
     })
   })
 })
+
+# [2019-11-13] (API) schedule note: Document Cypress findings for API
