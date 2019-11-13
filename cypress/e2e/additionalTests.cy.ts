@@ -115,3 +115,5 @@ describe('Additional Tests', () => {
 });
 
 # [2019-11-05] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2019-11-13] (a11y) schedule note: Document Cypress findings for a11y
