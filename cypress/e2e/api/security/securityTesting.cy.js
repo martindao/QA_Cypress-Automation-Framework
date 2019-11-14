@@ -71,3 +71,5 @@ describe('API Security Tests', () => {
     })
   })
 })
+
+# [2019-11-14] (a11y) schedule note: Add Cypress a11y test coverage
