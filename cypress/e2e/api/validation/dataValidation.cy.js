@@ -49,3 +49,5 @@ describe('API Validation Tests', () => {
     })
   })
 })
+
+# [2019-11-20] (UI) schedule note: Add Cypress UI test coverage
