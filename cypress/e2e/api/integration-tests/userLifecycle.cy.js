@@ -84,3 +84,4 @@ describe('[Integration] User Management Workflow', () => {
     })
   })
 })
+# [2019-11-20] (Security) schedule note: Add Cypress Security test coverage
