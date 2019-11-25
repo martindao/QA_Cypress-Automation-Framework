@@ -104,3 +104,5 @@ describe('API Interoperability Tests', () => {
     })
   })
 })
+
+# [2019-11-25] (API) schedule note: Refactor Cypress support utils for API
