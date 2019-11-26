@@ -131,3 +131,5 @@ describe('[Mock] API Response Mocking', () => {
     cy.wait('@getUserComments')
   })
 })
+
+# [2019-11-26] (Security) schedule note: Add Cypress Security test coverage
