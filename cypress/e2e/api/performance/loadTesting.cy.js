@@ -49,3 +49,5 @@ describe('API Performance Tests', () => {
 })
 
 # [2019-11-13] (API) schedule note: Document Cypress findings for API
+
+# [2019-11-29] (Security) schedule note: Improve CI stability for Security suite
