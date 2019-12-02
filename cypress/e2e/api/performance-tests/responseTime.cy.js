@@ -32,3 +32,4 @@ describe('[Performance] API Response Times', () => {
     return Promise.all(requests)
   })
 })
+# [2019-12-02] (UI) schedule note: Add Cypress UI test coverage
