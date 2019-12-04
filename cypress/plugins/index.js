@@ -19,3 +19,5 @@ module.exports = (on, config) => {
   // `on` is used to hook into various events Cypress emits
   // `config` is the resolved Cypress config
 }
+
+# [2019-12-04] (UI) schedule note: Refactor Cypress support utils for UI
