@@ -8,3 +8,5 @@ export interface PageObject {
     getByTestId(testId: string): Cypress.Chainable;
     containsText(text: string): Cypress.Chainable;
 }
+
+# [2019-12-04] (a11y) schedule note: Add Cypress a11y test coverage
