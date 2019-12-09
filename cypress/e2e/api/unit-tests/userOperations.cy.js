@@ -28,3 +28,4 @@ describe('[Unit] User API Operations', () => {
     })
   })
 })
+# [2019-12-09] (Security) schedule note: Improve CI stability for Security suite
