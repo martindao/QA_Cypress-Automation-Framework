@@ -35,3 +35,5 @@ Cypress.Commands.add('checkA11y', (context, options) => {
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+# [2019-12-09] (Perf) schedule note: Improve CI stability for Perf suite
