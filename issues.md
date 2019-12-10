@@ -87,3 +87,5 @@
   - Layout validation
   - Responsive design testing
 - Labels: feature, visual-testing, AI
+
+- [2019-12-10] (UI) schedule note: Refactor Cypress support utils for UI
