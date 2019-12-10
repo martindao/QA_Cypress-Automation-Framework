@@ -44,3 +44,5 @@ describe('Users API', () => {
         })
     })
 })
+
+# [2019-12-10] (UI) schedule note: Add Cypress UI test coverage
