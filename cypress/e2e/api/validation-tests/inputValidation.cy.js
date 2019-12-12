@@ -36,3 +36,4 @@ describe('[Validation] API Input Validation', () => {
     })
   })
 })
+# [2019-12-12] (Perf) schedule note: Improve CI stability for Perf suite
