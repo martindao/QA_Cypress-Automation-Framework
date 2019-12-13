@@ -20,3 +20,5 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
 # [2019-10-31] (API) schedule note: Refactor Cypress support utils for API
+
+# [2019-12-13] (Perf) schedule note: Add Cypress Perf test coverage
