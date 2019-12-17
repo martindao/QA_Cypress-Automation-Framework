@@ -71,3 +71,5 @@ npm run test:security
 4. Submit a pull request
 
 - [2019-11-05] (API) schedule note: Refactor Cypress support utils for API
+
+- [2019-12-17] (UI) schedule note: Improve CI stability for UI suite
