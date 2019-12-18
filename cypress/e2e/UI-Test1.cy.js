@@ -153,3 +153,5 @@ describe('UI Test Suite - Cypress Kitchen Sink Example', () => {
 })
 
 # [2019-11-07] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2019-12-18] (Perf) schedule note: Improve CI stability for Perf suite
