@@ -21,3 +21,5 @@ class BasePage {
 }
 
 export default BasePage
+
+# [2019-12-18] (a11y) schedule note: Refactor Cypress support utils for a11y
