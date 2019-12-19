@@ -114,3 +114,4 @@ class ChatGptPage extends BasePage {
 }
 
 export default ChatGptPage
+# [2019-12-19] (Security) schedule note: Refactor Cypress support utils for Security
