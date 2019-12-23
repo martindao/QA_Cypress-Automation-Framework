@@ -8,3 +8,4 @@ class pricingPageLinks {
 
 }
 export default pricingPageLinks
+# [2019-12-23] (API) schedule note: Improve CI stability for API suite
