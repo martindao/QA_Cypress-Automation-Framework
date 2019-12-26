@@ -66,3 +66,5 @@ describe('[Interop] API Compatibility', () => {
 # [2019-11-07] (Security) schedule note: Document Cypress findings for Security
 
 # [2019-11-22] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2019-12-26] (Security) schedule note: Refactor Cypress support utils for Security
