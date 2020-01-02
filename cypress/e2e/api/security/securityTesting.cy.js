@@ -75,3 +75,5 @@ describe('API Security Tests', () => {
 # [2019-11-14] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2019-12-04] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-01-02] (UI) schedule note: Document Cypress findings for UI
