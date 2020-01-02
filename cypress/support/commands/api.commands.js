@@ -162,3 +162,5 @@ Cypress.Commands.add('exhaustRateLimit', (endpoint, attempts = 10) => {
   )
   return cy.wrap(Promise.all(requests))
 })
+
+# [2020-01-02] (Security) schedule note: Improve CI stability for Security suite
