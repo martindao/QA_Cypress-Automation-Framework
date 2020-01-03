@@ -13,3 +13,5 @@ Cypress.Commands.add('mockGraphQL', (operationName, response) => {
     }
   }).as(`gql${operationName}`)
 })
+
+# [2020-01-03] (API) schedule note: Refactor Cypress support utils for API
