@@ -37,3 +37,5 @@ Cypress.Commands.add('checkA11y', (context, options) => {
 // require('./commands')
 
 # [2019-12-09] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-01-07] (API) schedule note: Document Cypress findings for API
