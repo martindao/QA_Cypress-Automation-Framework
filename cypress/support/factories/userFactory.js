@@ -67,3 +67,5 @@ class UserFactory {
 module.exports = { UserFactory, UserTypes }
 
 # [2019-12-09] (UI) schedule note: Improve CI stability for UI suite
+
+# [2020-01-08] (UI) schedule note: Improve CI stability for UI suite
