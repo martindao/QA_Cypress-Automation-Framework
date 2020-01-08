@@ -190,3 +190,5 @@ describe('ChatGPT UI Tests', () => {
 
 })
 # [2019-12-13] (Security) schedule note: Improve CI stability for Security suite
+
+# [2020-01-08] (a11y) schedule note: Add Cypress a11y test coverage
