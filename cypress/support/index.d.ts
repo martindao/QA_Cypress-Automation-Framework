@@ -7,3 +7,5 @@ declare namespace Cypress {
     login(email: string, password: string): Chainable<Element>
   }
 }
+
+# [2020-01-09] (Security) schedule note: Document Cypress findings for Security
