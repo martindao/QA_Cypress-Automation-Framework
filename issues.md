@@ -89,3 +89,5 @@
 - Labels: feature, visual-testing, AI
 
 - [2019-12-10] (UI) schedule note: Refactor Cypress support utils for UI
+
+- [2020-01-13] (UI) schedule note: Add Cypress UI test coverage
