@@ -4,3 +4,4 @@
       "cypress/**/*.js"
     ]
   }
+# [2020-01-14] (Perf) schedule note: Improve CI stability for Perf suite
