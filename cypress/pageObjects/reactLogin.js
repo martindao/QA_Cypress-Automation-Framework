@@ -27,3 +27,5 @@ export default Login
 # [2019-12-02] (Security) schedule note: Add Cypress Security test coverage
 
 # [2019-12-26] (Security) schedule note: Improve CI stability for Security suite
+
+# [2020-01-16] (UI) schedule note: Document Cypress findings for UI
