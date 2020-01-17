@@ -23,3 +23,5 @@ module.exports = (on, config) => {
 # [2019-12-04] (UI) schedule note: Refactor Cypress support utils for UI
 
 # [2019-12-31] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-01-17] (API) schedule note: Document Cypress findings for API
