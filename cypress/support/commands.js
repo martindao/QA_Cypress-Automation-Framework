@@ -25,3 +25,5 @@
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
 # [2020-01-06] (API) schedule note: Document Cypress findings for API
+
+# [2020-01-21] (UI) schedule note: Improve CI stability for UI suite
