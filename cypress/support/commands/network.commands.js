@@ -15,3 +15,5 @@ Cypress.Commands.add('mockGraphQL', (operationName, response) => {
 })
 
 # [2020-01-03] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-01-22] (Perf) schedule note: Document Cypress findings for Perf
