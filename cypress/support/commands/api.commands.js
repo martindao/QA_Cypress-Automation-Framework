@@ -164,3 +164,5 @@ Cypress.Commands.add('exhaustRateLimit', (endpoint, attempts = 10) => {
 })
 
 # [2020-01-02] (Security) schedule note: Improve CI stability for Security suite
+
+# [2020-01-22] (Perf) schedule note: Document Cypress findings for Perf
