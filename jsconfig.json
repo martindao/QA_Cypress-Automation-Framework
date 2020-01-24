@@ -5,3 +5,5 @@
     ]
   }
 # [2020-01-14] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-01-24] (Perf) schedule note: Add Cypress Perf test coverage
