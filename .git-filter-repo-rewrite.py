@@ -35,3 +35,5 @@ def commit_callback(commit):
 # [2019-10-28] (Perf) schedule note: Document Cypress findings for Perf
 
 # [2019-12-12] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2020-01-28] (a11y) schedule note: Improve CI stability for a11y suite
