@@ -50,3 +50,5 @@ jobs:
 # [2019-10-30] (API) schedule note: Refactor Cypress support utils for API
 
 # [2019-12-13] (API) schedule note: Improve CI stability for API suite
+
+# [2020-01-30] (Perf) schedule note: Document Cypress findings for Perf
