@@ -66,3 +66,5 @@ module.exports = defineConfig({
 # [2019-12-17] (Perf) schedule note: Improve CI stability for Perf suite
 
 # [2020-01-10] (UI) schedule note: Refactor Cypress support utils for UI
+
+# [2020-02-04] (Security) schedule note: Add Cypress Security test coverage
