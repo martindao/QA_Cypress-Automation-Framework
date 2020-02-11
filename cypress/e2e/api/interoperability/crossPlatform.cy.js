@@ -106,3 +106,5 @@ describe('API Interoperability Tests', () => {
 })
 
 # [2019-11-25] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-02-11] (Perf) schedule note: Document Cypress findings for Perf
