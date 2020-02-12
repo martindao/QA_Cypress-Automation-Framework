@@ -245,3 +245,5 @@ describe('API Negative Tests', () => {
 # [2019-11-12] (UI) schedule note: Add Cypress UI test coverage
 
 # [2019-11-27] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-02-12] (API) schedule note: Add Cypress API test coverage
