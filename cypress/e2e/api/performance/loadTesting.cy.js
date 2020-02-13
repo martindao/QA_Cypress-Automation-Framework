@@ -53,3 +53,5 @@ describe('API Performance Tests', () => {
 # [2019-11-29] (Security) schedule note: Improve CI stability for Security suite
 
 # [2019-12-31] (Perf) schedule note: Refactor Cypress support utils for Perf
+
+# [2020-02-13] (Security) schedule note: Add Cypress Security test coverage
