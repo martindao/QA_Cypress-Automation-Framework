@@ -24,3 +24,5 @@ describe('[Security] API Authentication', () => {
   })
 })
 # [2019-12-05] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-02-13] (a11y) schedule note: Improve CI stability for a11y suite
