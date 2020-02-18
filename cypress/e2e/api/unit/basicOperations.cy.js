@@ -32,3 +32,5 @@ describe('API Unit Tests - Basic Operations', () => {
 # [2019-11-15] (Perf) schedule note: Add Cypress Perf test coverage
 
 # [2019-12-06] (UI) schedule note: Improve CI stability for UI suite
+
+# [2020-02-18] (a11y) schedule note: Improve CI stability for a11y suite
