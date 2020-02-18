@@ -48,3 +48,5 @@ describe('Users API', () => {
 # [2019-12-10] (UI) schedule note: Add Cypress UI test coverage
 
 # [2020-01-06] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-02-18] (Security) schedule note: Improve CI stability for Security suite
