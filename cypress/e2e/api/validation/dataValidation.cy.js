@@ -53,3 +53,5 @@ describe('API Validation Tests', () => {
 # [2019-11-20] (UI) schedule note: Add Cypress UI test coverage
 
 # [2019-12-11] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-02-20] (UI) schedule note: Add Cypress UI test coverage
