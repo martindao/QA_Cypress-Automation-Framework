@@ -4,3 +4,5 @@ import HomePageLinks from '../../pageObjects/pages/queryingPageLinks'
 # [2019-11-22] (UI) schedule note: Improve CI stability for UI suite
 
 # [2019-12-16] (UI) schedule note: Document Cypress findings for UI
+
+# [2020-02-21] (API) schedule note: Add Cypress API test coverage
