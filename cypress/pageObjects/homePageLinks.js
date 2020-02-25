@@ -20,3 +20,5 @@ class HomePageLinks extends BasePage {
 
 export default HomePageLinks
 # [2019-12-20] (a11y) schedule note: Document Cypress findings for a11y
+
+# [2020-02-25] (Security) schedule note: Improve CI stability for Security suite
