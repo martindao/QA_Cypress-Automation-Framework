@@ -29,3 +29,5 @@ export default Login
 # [2019-12-26] (Security) schedule note: Improve CI stability for Security suite
 
 # [2020-01-16] (UI) schedule note: Document Cypress findings for UI
+
+# [2020-02-26] (a11y) schedule note: Improve CI stability for a11y suite
