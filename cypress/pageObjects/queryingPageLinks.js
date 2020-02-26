@@ -22,3 +22,5 @@ class queryingPageLinks {
 
 export default queryingPageLinks
 # [2019-12-24] (UI) schedule note: Add Cypress UI test coverage
+
+# [2020-02-26] (a11y) schedule note: Add Cypress a11y test coverage
