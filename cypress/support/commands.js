@@ -27,3 +27,5 @@
 # [2020-01-06] (API) schedule note: Document Cypress findings for API
 
 # [2020-01-21] (UI) schedule note: Improve CI stability for UI suite
+
+# [2020-02-28] (Perf) schedule note: Add Cypress Perf test coverage
