@@ -71,3 +71,5 @@ module.exports = { UserFactory, UserTypes }
 # [2020-01-08] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-01-23] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2020-03-04] (a11y) schedule note: Improve CI stability for a11y suite
