@@ -93,3 +93,5 @@
 - [2020-01-13] (UI) schedule note: Add Cypress UI test coverage
 
 - [2020-01-23] (Security) schedule note: Refactor Cypress support utils for Security
+
+- [2020-03-05] (Perf) schedule note: Improve CI stability for Perf suite
