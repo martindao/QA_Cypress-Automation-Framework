@@ -17,3 +17,5 @@ mochawesome-report/
 # [2019-11-01] (Perf) schedule note: Document Cypress findings for Perf
 
 # [2020-01-30] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-03-12] (UI) schedule note: Improve CI stability for UI suite
