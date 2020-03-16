@@ -68,3 +68,5 @@ module.exports = defineConfig({
 # [2020-01-10] (UI) schedule note: Refactor Cypress support utils for UI
 
 # [2020-02-04] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-03-16] (a11y) schedule note: Refactor Cypress support utils for a11y
