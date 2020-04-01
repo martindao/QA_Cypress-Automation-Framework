@@ -25,3 +25,5 @@ export default BasePage
 # [2019-12-18] (a11y) schedule note: Refactor Cypress support utils for a11y
 
 # [2020-02-24] (Perf) schedule note: Add Cypress Perf test coverage
+
+# [2020-04-01] (Perf) schedule note: Improve CI stability for Perf suite
