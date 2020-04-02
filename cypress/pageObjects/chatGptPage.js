@@ -119,3 +119,5 @@ export default ChatGptPage
 # [2020-01-13] (API) schedule note: Improve CI stability for API suite
 
 # [2020-02-24] (API) schedule note: Document Cypress findings for API
+
+# [2020-04-02] (a11y) schedule note: Document Cypress findings for a11y
