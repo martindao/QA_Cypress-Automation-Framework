@@ -11,3 +11,5 @@ export default pricingPageLinks
 # [2019-12-23] (API) schedule note: Improve CI stability for API suite
 
 # [2020-02-25] (UI) schedule note: Add Cypress UI test coverage
+
+# [2020-04-06] (API) schedule note: Improve CI stability for API suite
