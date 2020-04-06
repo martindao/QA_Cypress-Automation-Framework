@@ -24,3 +24,5 @@ export default queryingPageLinks
 # [2019-12-24] (UI) schedule note: Add Cypress UI test coverage
 
 # [2020-02-26] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2020-04-06] (Security) schedule note: Improve CI stability for Security suite
