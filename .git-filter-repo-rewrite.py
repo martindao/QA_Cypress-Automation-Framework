@@ -39,3 +39,5 @@ def commit_callback(commit):
 # [2020-01-28] (a11y) schedule note: Improve CI stability for a11y suite
 
 # [2020-03-11] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-04-17] (API) schedule note: Add Cypress API test coverage
