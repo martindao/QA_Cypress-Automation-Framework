@@ -8,3 +8,5 @@
 # [2020-01-29] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-03-11] (UI) schedule note: Improve CI stability for UI suite
+
+# [2020-04-17] (API) schedule note: Refactor Cypress support utils for API
