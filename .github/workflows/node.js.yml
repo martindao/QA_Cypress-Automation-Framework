@@ -54,3 +54,5 @@ jobs:
 # [2020-01-30] (Perf) schedule note: Document Cypress findings for Perf
 
 # [2020-03-11] (API) schedule note: Add Cypress API test coverage
+
+# [2020-04-20] (Perf) schedule note: Refactor Cypress support utils for Perf
