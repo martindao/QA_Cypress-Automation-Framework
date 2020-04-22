@@ -77,3 +77,5 @@ npm run test:security
 - [2020-02-03] (API) schedule note: Improve CI stability for API suite
 
 - [2020-03-16] (API) schedule note: Add Cypress API test coverage
+
+- [2020-04-22] (UI) schedule note: Add Cypress UI test coverage
