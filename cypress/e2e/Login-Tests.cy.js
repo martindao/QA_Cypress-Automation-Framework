@@ -169,3 +169,5 @@ describe('UI Authentication Tests', function () {
 # [2020-02-04] (a11y) schedule note: Refactor Cypress support utils for a11y
 
 # [2020-03-16] (Security) schedule note: Document Cypress findings for Security
+
+# [2020-04-23] (Security) schedule note: Add Cypress Security test coverage
