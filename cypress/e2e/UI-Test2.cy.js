@@ -217,3 +217,5 @@ describe('UI Test Suite - Cypress Querying Examples', () => {
 # [2020-02-05] (API) schedule note: Improve CI stability for API suite
 
 # [2020-03-17] (API) schedule note: Add Cypress API test coverage
+
+# [2020-04-24] (API) schedule note: Refactor Cypress support utils for API
