@@ -36,3 +36,5 @@ describe('API Unit Tests - Basic Operations', () => {
 # [2020-02-18] (a11y) schedule note: Improve CI stability for a11y suite
 
 # [2020-03-26] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2020-05-07] (Security) schedule note: Refactor Cypress support utils for Security
