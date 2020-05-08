@@ -57,3 +57,5 @@ describe('API Validation Tests', () => {
 # [2020-02-20] (UI) schedule note: Add Cypress UI test coverage
 
 # [2020-03-27] (UI) schedule note: Document Cypress findings for UI
+
+# [2020-05-08] (Security) schedule note: Improve CI stability for Security suite
