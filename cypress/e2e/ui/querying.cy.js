@@ -8,3 +8,5 @@ import HomePageLinks from '../../pageObjects/pages/queryingPageLinks'
 # [2020-02-21] (API) schedule note: Add Cypress API test coverage
 
 # [2020-03-30] (API) schedule note: Improve CI stability for API suite
+
+# [2020-05-08] (UI) schedule note: Add Cypress UI test coverage
