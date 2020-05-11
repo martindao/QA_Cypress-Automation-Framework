@@ -27,3 +27,5 @@ export default BasePage
 # [2020-02-24] (Perf) schedule note: Add Cypress Perf test coverage
 
 # [2020-04-01] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-05-11] (UI) schedule note: Improve CI stability for UI suite
