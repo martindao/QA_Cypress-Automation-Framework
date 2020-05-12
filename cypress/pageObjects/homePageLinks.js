@@ -24,3 +24,5 @@ export default HomePageLinks
 # [2020-02-25] (Security) schedule note: Improve CI stability for Security suite
 
 # [2020-04-03] (Security) schedule note: Document Cypress findings for Security
+
+# [2020-05-12] (Security) schedule note: Refactor Cypress support utils for Security
