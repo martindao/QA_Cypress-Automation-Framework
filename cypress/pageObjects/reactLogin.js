@@ -33,3 +33,5 @@ export default Login
 # [2020-02-26] (a11y) schedule note: Improve CI stability for a11y suite
 
 # [2020-04-06] (API) schedule note: Document Cypress findings for API
+
+# [2020-05-13] (Security) schedule note: Improve CI stability for Security suite
