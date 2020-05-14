@@ -29,3 +29,5 @@ module.exports = (on, config) => {
 # [2020-02-27] (API) schedule note: Document Cypress findings for API
 
 # [2020-04-09] (API) schedule note: Improve CI stability for API suite
+
+# [2020-05-14] (UI) schedule note: Document Cypress findings for UI
