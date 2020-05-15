@@ -31,3 +31,5 @@
 # [2020-02-28] (Perf) schedule note: Add Cypress Perf test coverage
 
 # [2020-04-10] (UI) schedule note: Refactor Cypress support utils for UI
+
+# [2020-05-15] (Perf) schedule note: Add Cypress Perf test coverage
