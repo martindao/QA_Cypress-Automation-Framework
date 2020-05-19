@@ -15,3 +15,5 @@ declare namespace Cypress {
 # [2020-03-05] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-04-14] (a11y) schedule note: Document Cypress findings for a11y
+
+# [2020-05-19] (a11y) schedule note: Improve CI stability for a11y suite
