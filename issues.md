@@ -97,3 +97,5 @@
 - [2020-03-05] (Perf) schedule note: Improve CI stability for Perf suite
 
 - [2020-04-15] (Perf) schedule note: Refactor Cypress support utils for Perf
+
+- [2020-05-20] (Perf) schedule note: Improve CI stability for Perf suite
