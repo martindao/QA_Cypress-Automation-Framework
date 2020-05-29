@@ -79,3 +79,5 @@ npm run test:security
 - [2020-03-16] (API) schedule note: Add Cypress API test coverage
 
 - [2020-04-22] (UI) schedule note: Add Cypress UI test coverage
+
+- [2020-05-29] (Perf) schedule note: Add Cypress Perf test coverage
