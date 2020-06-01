@@ -72,3 +72,5 @@ module.exports = defineConfig({
 # [2020-03-16] (a11y) schedule note: Refactor Cypress support utils for a11y
 
 # [2020-04-22] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2020-06-01] (API) schedule note: Refactor Cypress support utils for API
