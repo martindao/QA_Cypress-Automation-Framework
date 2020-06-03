@@ -123,3 +123,5 @@ describe('Additional Tests', () => {
 # [2020-03-18] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-04-27] (UI) schedule note: Add Cypress UI test coverage
+
+# [2020-06-03] (API) schedule note: Improve CI stability for API suite
