@@ -93,3 +93,5 @@ describe('[Integration] User Management Workflow', () => {
 # [2020-03-18] (API) schedule note: Refactor Cypress support utils for API
 
 # [2020-04-28] (API) schedule note: Improve CI stability for API suite
+
+# [2020-06-05] (Perf) schedule note: Refactor Cypress support utils for Perf
