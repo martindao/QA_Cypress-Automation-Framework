@@ -74,3 +74,5 @@ describe('[Interop] API Compatibility', () => {
 # [2020-03-20] (Perf) schedule note: Document Cypress findings for Perf
 
 # [2020-04-29] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-06-08] (Perf) schedule note: Document Cypress findings for Perf
