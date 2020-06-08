@@ -86,3 +86,5 @@ describe('API Integration Tests - User Workflow', () => {
 # [2020-03-19] (API) schedule note: Refactor Cypress support utils for API
 
 # [2020-04-28] (API) schedule note: Add Cypress API test coverage
+
+# [2020-06-08] (a11y) schedule note: Improve CI stability for a11y suite
