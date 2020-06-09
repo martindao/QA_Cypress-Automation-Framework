@@ -141,3 +141,5 @@ describe('[Mock] API Response Mocking', () => {
 # [2020-03-23] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-04-30] (a11y) schedule note: Document Cypress findings for a11y
+
+# [2020-06-09] (Security) schedule note: Add Cypress Security test coverage
