@@ -59,3 +59,5 @@ describe('API Performance Tests', () => {
 # [2020-03-24] (Security) schedule note: Add Cypress Security test coverage
 
 # [2020-05-04] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-06-10] (UI) schedule note: Improve CI stability for UI suite
