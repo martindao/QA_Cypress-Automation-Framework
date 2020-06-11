@@ -30,3 +30,5 @@ describe('[Security] API Authentication', () => {
 # [2020-03-24] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-05-05] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-06-11] (Security) schedule note: Document Cypress findings for Security
