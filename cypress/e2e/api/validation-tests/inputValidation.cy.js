@@ -43,3 +43,5 @@ describe('[Validation] API Input Validation', () => {
 # [2020-03-27] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-05-07] (Perf) schedule note: Add Cypress Perf test coverage
+
+# [2020-06-15] (Perf) schedule note: Improve CI stability for Perf suite
