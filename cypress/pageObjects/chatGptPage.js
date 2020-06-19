@@ -123,3 +123,5 @@ export default ChatGptPage
 # [2020-04-02] (a11y) schedule note: Document Cypress findings for a11y
 
 # [2020-05-11] (Perf) schedule note: Refactor Cypress support utils for Perf
+
+# [2020-06-19] (API) schedule note: Refactor Cypress support utils for API
