@@ -26,3 +26,5 @@ export default HomePageLinks
 # [2020-04-03] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-05-12] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-06-19] (API) schedule note: Document Cypress findings for API
