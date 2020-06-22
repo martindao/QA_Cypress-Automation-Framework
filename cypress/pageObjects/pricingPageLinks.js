@@ -15,3 +15,5 @@ export default pricingPageLinks
 # [2020-04-06] (API) schedule note: Improve CI stability for API suite
 
 # [2020-05-12] (a11y) schedule note: Document Cypress findings for a11y
+
+# [2020-06-22] (API) schedule note: Document Cypress findings for API
