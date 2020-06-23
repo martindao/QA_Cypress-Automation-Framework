@@ -18,3 +18,5 @@ export interface PageObject {
 # [2020-04-08] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-05-14] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-06-23] (UI) schedule note: Document Cypress findings for UI
