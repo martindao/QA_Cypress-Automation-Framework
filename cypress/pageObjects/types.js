@@ -9,3 +9,5 @@ export {};
 # [2020-04-07] (Perf) schedule note: Document Cypress findings for Perf
 
 # [2020-05-13] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-06-23] (Security) schedule note: Improve CI stability for Security suite
