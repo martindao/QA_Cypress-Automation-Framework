@@ -172,3 +172,5 @@ Cypress.Commands.add('exhaustRateLimit', (endpoint, attempts = 10) => {
 # [2020-04-10] (API) schedule note: Add Cypress API test coverage
 
 # [2020-05-15] (a11y) schedule note: Refactor Cypress support utils for a11y
+
+# [2020-06-25] (a11y) schedule note: Improve CI stability for a11y suite
