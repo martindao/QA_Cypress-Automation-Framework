@@ -58,3 +58,5 @@ jobs:
 # [2020-04-20] (Perf) schedule note: Refactor Cypress support utils for Perf
 
 # [2020-05-27] (Security) schedule note: Document Cypress findings for Security
+
+# [2020-07-02] (API) schedule note: Improve CI stability for API suite
