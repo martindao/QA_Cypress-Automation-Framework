@@ -30,3 +30,5 @@ jobs:
 # [2020-04-20] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-05-28] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-07-06] (a11y) schedule note: Improve CI stability for a11y suite
