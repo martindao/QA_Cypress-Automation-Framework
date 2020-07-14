@@ -125,3 +125,5 @@ describe('Additional Tests', () => {
 # [2020-04-27] (UI) schedule note: Add Cypress UI test coverage
 
 # [2020-06-03] (API) schedule note: Improve CI stability for API suite
+
+# [2020-07-14] (API) schedule note: Document Cypress findings for API
