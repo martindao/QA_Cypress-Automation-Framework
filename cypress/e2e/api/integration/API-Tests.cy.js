@@ -82,3 +82,5 @@ describe('API Testing', () => {
 # [2020-04-28] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-06-05] (Security) schedule note: Document Cypress findings for Security
+
+# [2020-07-15] (API) schedule note: Improve CI stability for API suite
