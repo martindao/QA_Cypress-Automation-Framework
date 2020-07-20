@@ -253,3 +253,5 @@ describe('API Negative Tests', () => {
 # [2020-05-01] (Perf) schedule note: Refactor Cypress support utils for Perf
 
 # [2020-06-09] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2020-07-20] (Perf) schedule note: Improve CI stability for Perf suite
