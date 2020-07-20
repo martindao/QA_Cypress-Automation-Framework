@@ -41,3 +41,5 @@ describe('[Performance] API Response Times', () => {
 # [2020-05-04] (Security) schedule note: Add Cypress Security test coverage
 
 # [2020-06-09] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-07-20] (a11y) schedule note: Document Cypress findings for a11y
