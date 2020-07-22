@@ -37,3 +37,5 @@ describe('[Unit] User API Operations', () => {
 # [2020-05-06] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-06-12] (API) schedule note: Add Cypress API test coverage
+
+# [2020-07-22] (a11y) schedule note: Add Cypress a11y test coverage
