@@ -40,3 +40,5 @@ describe('API Unit Tests - Basic Operations', () => {
 # [2020-05-07] (Security) schedule note: Refactor Cypress support utils for Security
 
 # [2020-06-12] (a11y) schedule note: Refactor Cypress support utils for a11y
+
+# [2020-07-22] (Security) schedule note: Refactor Cypress support utils for Security
