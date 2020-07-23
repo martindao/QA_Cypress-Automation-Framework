@@ -56,3 +56,5 @@ describe('Users API', () => {
 # [2020-05-07] (Security) schedule note: Improve CI stability for Security suite
 
 # [2020-06-15] (API) schedule note: Improve CI stability for API suite
+
+# [2020-07-23] (Perf) schedule note: Refactor Cypress support utils for Perf
