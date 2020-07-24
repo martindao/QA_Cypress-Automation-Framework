@@ -200,3 +200,5 @@ describe('ChatGPT UI Tests', () => {
 # [2020-05-08] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-06-17] (Security) schedule note: Improve CI stability for Security suite
+
+# [2020-07-24] (API) schedule note: Document Cypress findings for API
