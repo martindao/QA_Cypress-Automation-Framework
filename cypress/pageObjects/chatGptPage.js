@@ -125,3 +125,5 @@ export default ChatGptPage
 # [2020-05-11] (Perf) schedule note: Refactor Cypress support utils for Perf
 
 # [2020-06-19] (API) schedule note: Refactor Cypress support utils for API
+
+# [2020-07-27] (Security) schedule note: Add Cypress Security test coverage
