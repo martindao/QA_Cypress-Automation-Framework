@@ -37,3 +37,5 @@ export default Login
 # [2020-05-13] (Security) schedule note: Improve CI stability for Security suite
 
 # [2020-06-22] (API) schedule note: Document Cypress findings for API
+
+# [2020-07-29] (API) schedule note: Improve CI stability for API suite
