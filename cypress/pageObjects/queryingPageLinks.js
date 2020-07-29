@@ -30,3 +30,5 @@ export default queryingPageLinks
 # [2020-05-12] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-06-22] (UI) schedule note: Refactor Cypress support utils for UI
+
+# [2020-07-29] (API) schedule note: Improve CI stability for API suite
