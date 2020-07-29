@@ -17,3 +17,5 @@ export default pricingPageLinks
 # [2020-05-12] (a11y) schedule note: Document Cypress findings for a11y
 
 # [2020-06-22] (API) schedule note: Document Cypress findings for API
+
+# [2020-07-29] (API) schedule note: Refactor Cypress support utils for API
