@@ -20,3 +20,5 @@ export interface PageObject {
 # [2020-05-14] (Perf) schedule note: Improve CI stability for Perf suite
 
 # [2020-06-23] (UI) schedule note: Document Cypress findings for UI
+
+# [2020-07-30] (Perf) schedule note: Document Cypress findings for Perf
