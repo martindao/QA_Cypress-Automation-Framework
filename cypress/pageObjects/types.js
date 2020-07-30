@@ -11,3 +11,5 @@ export {};
 # [2020-05-13] (Perf) schedule note: Improve CI stability for Perf suite
 
 # [2020-06-23] (Security) schedule note: Improve CI stability for Security suite
+
+# [2020-07-30] (Security) schedule note: Add Cypress Security test coverage
