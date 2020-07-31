@@ -35,3 +35,5 @@
 # [2020-05-15] (Perf) schedule note: Add Cypress Perf test coverage
 
 # [2020-06-24] (API) schedule note: Document Cypress findings for API
+
+# [2020-07-31] (a11y) schedule note: Document Cypress findings for a11y
