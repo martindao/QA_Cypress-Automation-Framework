@@ -19,3 +19,5 @@ declare namespace Cypress {
 # [2020-05-19] (a11y) schedule note: Improve CI stability for a11y suite
 
 # [2020-06-29] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-08-04] (API) schedule note: Improve CI stability for API suite
