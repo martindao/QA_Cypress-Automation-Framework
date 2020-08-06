@@ -115,3 +115,5 @@
 # [2020-05-22] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-06-30] (a11y) schedule note: Improve CI stability for a11y suite
+
+# [2020-08-06] (Perf) schedule note: Improve CI stability for Perf suite
