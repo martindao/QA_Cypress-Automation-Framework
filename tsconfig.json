@@ -27,3 +27,5 @@
 # [2020-05-22] (API) schedule note: Document Cypress findings for API
 
 # [2020-07-01] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-08-07] (API) schedule note: Refactor Cypress support utils for API
