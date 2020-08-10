@@ -45,3 +45,5 @@ def commit_callback(commit):
 # [2020-05-26] (Security) schedule note: Refactor Cypress support utils for Security
 
 # [2020-07-01] (Perf) schedule note: Document Cypress findings for Perf
+
+# [2020-08-10] (Security) schedule note: Add Cypress Security test coverage
