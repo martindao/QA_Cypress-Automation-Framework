@@ -60,3 +60,5 @@ jobs:
 # [2020-05-27] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-07-02] (API) schedule note: Improve CI stability for API suite
+
+# [2020-08-11] (a11y) schedule note: Add Cypress a11y test coverage
