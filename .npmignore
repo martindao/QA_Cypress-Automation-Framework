@@ -25,3 +25,5 @@ mochawesome-report/
 # [2020-05-29] (a11y) schedule note: Add Cypress a11y test coverage
 
 # [2020-07-06] (API) schedule note: Document Cypress findings for API
+
+# [2020-08-12] (Perf) schedule note: Document Cypress findings for Perf
