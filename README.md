@@ -83,3 +83,5 @@ npm run test:security
 - [2020-05-29] (Perf) schedule note: Add Cypress Perf test coverage
 
 - [2020-07-08] (UI) schedule note: Document Cypress findings for UI
+
+- [2020-08-13] (Perf) schedule note: Refactor Cypress support utils for Perf
