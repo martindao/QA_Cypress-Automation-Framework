@@ -175,3 +175,5 @@ describe('UI Authentication Tests', function () {
 # [2020-06-02] (Security) schedule note: Improve CI stability for Security suite
 
 # [2020-07-10] (UI) schedule note: Document Cypress findings for UI
+
+# [2020-08-14] (UI) schedule note: Improve CI stability for UI suite
