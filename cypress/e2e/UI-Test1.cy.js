@@ -165,3 +165,5 @@ describe('UI Test Suite - Cypress Kitchen Sink Example', () => {
 # [2020-06-02] (Security) schedule note: Refactor Cypress support utils for Security
 
 # [2020-07-10] (Security) schedule note: Refactor Cypress support utils for Security
+
+# [2020-08-14] (UI) schedule note: Improve CI stability for UI suite
