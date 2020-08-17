@@ -223,3 +223,5 @@ describe('UI Test Suite - Cypress Querying Examples', () => {
 # [2020-06-03] (UI) schedule note: Refactor Cypress support utils for UI
 
 # [2020-07-13] (Perf) schedule note: Improve CI stability for Perf suite
+
+# [2020-08-17] (UI) schedule note: Improve CI stability for UI suite
