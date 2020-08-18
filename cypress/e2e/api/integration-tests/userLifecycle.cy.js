@@ -97,3 +97,5 @@ describe('[Integration] User Management Workflow', () => {
 # [2020-06-05] (Perf) schedule note: Refactor Cypress support utils for Perf
 
 # [2020-07-14] (Security) schedule note: Document Cypress findings for Security
+
+# [2020-08-18] (Security) schedule note: Refactor Cypress support utils for Security
