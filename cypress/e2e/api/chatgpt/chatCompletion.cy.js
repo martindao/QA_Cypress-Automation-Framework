@@ -162,3 +162,5 @@ describe('ChatGPT API Tests', () => {
 # [2020-06-04] (API) schedule note: Document Cypress findings for API
 
 # [2020-07-14] (Perf) schedule note: Add Cypress Perf test coverage
+
+# [2020-08-18] (Security) schedule note: Document Cypress findings for Security
