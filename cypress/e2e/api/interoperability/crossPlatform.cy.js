@@ -116,3 +116,5 @@ describe('API Interoperability Tests', () => {
 # [2020-06-08] (a11y) schedule note: Document Cypress findings for a11y
 
 # [2020-07-17] (Security) schedule note: Add Cypress Security test coverage
+
+# [2020-08-21] (Security) schedule note: Document Cypress findings for Security
