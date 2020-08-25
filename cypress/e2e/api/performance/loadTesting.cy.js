@@ -63,3 +63,5 @@ describe('API Performance Tests', () => {
 # [2020-06-10] (UI) schedule note: Improve CI stability for UI suite
 
 # [2020-07-20] (a11y) schedule note: Refactor Cypress support utils for a11y
+
+# [2020-08-25] (Perf) schedule note: Add Cypress Perf test coverage
