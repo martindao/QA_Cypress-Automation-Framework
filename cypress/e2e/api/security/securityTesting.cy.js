@@ -87,3 +87,5 @@ describe('API Security Tests', () => {
 # [2020-06-11] (API) schedule note: Document Cypress findings for API
 
 # [2020-07-21] (a11y) schedule note: Refactor Cypress support utils for a11y
+
+# [2020-08-25] (API) schedule note: Refactor Cypress support utils for API
