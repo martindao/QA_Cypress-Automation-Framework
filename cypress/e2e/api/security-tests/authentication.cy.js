@@ -34,3 +34,5 @@ describe('[Security] API Authentication', () => {
 # [2020-06-11] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-07-21] (a11y) schedule note: Document Cypress findings for a11y
+
+# [2020-08-25] (a11y) schedule note: Refactor Cypress support utils for a11y
