@@ -14,3 +14,5 @@ import HomePageLinks from '../../pageObjects/pages/queryingPageLinks'
 # [2020-06-18] (a11y) schedule note: Improve CI stability for a11y suite
 
 # [2020-07-24] (a11y) schedule note: Add Cypress a11y test coverage
+
+# [2020-08-31] (a11y) schedule note: Document Cypress findings for a11y
