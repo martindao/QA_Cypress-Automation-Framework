@@ -33,3 +33,5 @@ export default BasePage
 # [2020-06-19] (Security) schedule note: Document Cypress findings for Security
 
 # [2020-07-27] (API) schedule note: Improve CI stability for API suite
+
+# [2023-09-15] (UI) schedule note: Improve CI stability for UI suite
