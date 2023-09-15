@@ -1,87 +1,48 @@
 # Cypress Automation Framework
 
-A comprehensive Cypress automation framework for testing web applications.
+## Overview
+This repo houses our JavaScript/TypeScript Cypress framework for UI, API, accessibility, performance, and security testing. It integrates with GitHub Actions, npm publishing, and Issue tracking docs to support 2020–2024 backfill schedules.
 
-## Features
-- End-to-end testing
-- API testing
-- UI testing
-- Performance testing
-- Accessibility testing
-- Security testing
+## Repository Layout
+- cypress/
+  - e2e/ suites by area (UI-Test*, API, accessibility, performance, security).
+  - support/ shared commands, fixtures, factories.
+  - pageObjects/ higher-level workflows used by UI suites.
+- .github/workflows/ – CI definitions (
+ode.js.yml, 
+pm-publish.yml).
+- cypress.config.js – central Cypress + reporter configuration.
+- package.json / package-lock.json – npm dependencies and scripts.
+- issues.md – manual test notes / backlog.
 
-### Performance Testing
-This framework includes comprehensive performance testing capabilities using Cypress. Performance testing helps identify bottlenecks and optimize application speed.
+## Environment Setup
+1. Install Node.js 18+ and npm.
+2. Install dependencies:
+   `powershell
+   npm install
+   `
+3. Copy any secrets (API tokens, Slack webhooks) into .env or your CI secret store.
 
-### Accessibility Testing
-Comprehensive accessibility testing support with automated a11y checks using axe-core integration with Cypress.
+## Running Workflows
+- Interactive run:
+  `powershell
+  npx cypress open
+  `
+- Headless regression:
+  `powershell
+  npx cypress run --browser chrome --record false
+  `
+- Targeted suites:
+  `powershell
+  npx cypress run --spec "cypress/e2e/api/**/*.cy.js"
+  `
 
-### CI/CD Integration
-Robust CI/CD integration with parallel test execution, retry mechanisms, and detailed reporting for stable test runs.
-
-### API Testing
-Enhanced API testing capabilities with request/response validation, authentication testing, and endpoint coverage analysis.
-
-### UI Testing
-Comprehensive UI testing framework with visual regression testing, responsive design validation, and cross-browser compatibility checks.
-
-### Security Testing
-Advanced security testing features including vulnerability scanning, authentication bypass testing, and security headers validation.
-
-## Installation
-
-```bash
-npm install
-```
-
-## Usage
-
-```bash
-npx cypress open
-```
-
-## Testing
-
-Run all tests:
-```bash
-npm test
-```
-
-Run specific test suites:
-```bash
-npm run test:ui
-npm run test:api
-npm run test:perf
-npm run test:a11y
-npm run test:security
-```
-
-## Framework Structure
-
-- `cypress/` - Test files and configurations
-- `cypress/e2e/` - End-to-end tests
-- `cypress/api/` - API tests
-- `cypress/support/` - Support files and utilities
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-- [2019-11-05] (API) schedule note: Refactor Cypress support utils for API
-
-- [2019-12-17] (UI) schedule note: Improve CI stability for UI suite
-
-- [2020-02-03] (API) schedule note: Improve CI stability for API suite
-
-- [2020-03-16] (API) schedule note: Add Cypress API test coverage
-
-- [2020-04-22] (UI) schedule note: Add Cypress UI test coverage
-
-- [2020-05-29] (Perf) schedule note: Add Cypress Perf test coverage
-
-- [2020-07-08] (UI) schedule note: Document Cypress findings for UI
-
-- [2020-08-13] (Perf) schedule note: Refactor Cypress support utils for Perf
+## Quality & Automation
+- Lint/format before committing:
+  `powershell
+  npm run lint
+  npm run format
+  `
+- CI is handled via .github/workflows/node.js.yml; keep the matrix updated when bumping Cypress versions.
+- When adding new suites, update cypress.config.js (reporters, env flags) and log the scenario in issues.md.
+- Maintain commit timestamps inside the planned 2020-09-01 ? 2023-09-15 window per OpenSpec.
