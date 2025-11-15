@@ -1,0 +1,103 @@
+{
+  "name": "cypress-page-object-model",
+  "version": "2.0.0",
+  "description": "Cypress Page Object Basic Model ( Ready To Use ) - UI Test Automation Design Pattern for Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "presetup": "npm install",
+    "setup": "npm run cypress:install",
+    "verify": "cypress verify",
+    "cypress": "cypress",
+    "cypress:install": "cypress install",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run --headless --browser chrome",
+    "test:open": "cypress open",
+    "test:ci": "cypress run --headless --browser chrome",
+    "lint": "eslint cypress/**/*.{js,ts}",
+    "prettier": "prettier --write \"cypress/**/*.{js,ts}\"",
+    "test:api": "cypress run --spec \"cypress/e2e/api/**/*\"",
+    "test:ui": "cypress run --spec \"cypress/e2e/ui/**/*\"",
+    "test:integration": "cypress run --spec \"cypress/e2e/integration/**/*\"",
+    "test:parallel": "cypress run --parallel --spec \"cypress/e2e/**/*\"",
+    "build": "tsc",
+    "prepublishOnly": "npm run build || true",
+    "version": "git add -A",
+    "version:patch": "npm version patch --no-git-tag-version && git add package.json && git commit -m \"chore: bump version patch\" && git push",
+    "version:minor": "npm version minor --no-git-tag-version && git add package.json && git commit -m \"chore: bump version minor\" && git push",
+    "version:major": "npm version major --no-git-tag-version && git add package.json && git commit -m \"chore: bump version major\" && git push",
+    "postversion": "git push && git push --tags",
+    "report:clean": "rm -rf cypress/reports",
+    "report:merge": "mochawesome-merge cypress/reports/json/*.json > cypress/reports/html/report.json",
+    "report:generate": "marge cypress/reports/html/report.json -f report -o cypress/reports/html",
+    "test:report": "npm run report:clean && npm run test && npm run report:merge && npm run report:generate",
+    "test:visual": "cypress run --env type=visual",
+    "test:a11y": "cypress run --env type=accessibility"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martindao/QA_Cypress-automation-framework.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress.io",
+    "chai",
+    "POM",
+    "framework",
+    "browser",
+    "testing",
+    "end-to-end",
+    "integration",
+    "test",
+    "architecture",
+    "page-object-model",
+    "UAT",
+    "E2E",
+    "angular",
+    "AngularJS",
+    "nextjs",
+    "react",
+    "reactjs",
+    "javascript",
+    "cypress-testing-library",
+    "cypress-npm",
+    "automation",
+    "cypress-api"
+  ],
+  "author": "Martin Dao",
+  "license": "MIT",
+  "homepage": "https://martindao.onrender.com",
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "@testing-library/cypress": "^10.0.1",
+    "@types/node": "^20.11.16",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "cypress": "^14.2.0",
+    "cypress-axe": "^1.6.0",
+    "cypress-image-snapshot": "^4.0.1",
+    "cypress-mochawesome-reporter": "^3.8.1",
+    "cypress-real-events": "^1.11.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-cypress": "^2.15.1",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0",
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "cypress"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/martindao/QA_Cypress-automation-framework/issues"
+  }
+}

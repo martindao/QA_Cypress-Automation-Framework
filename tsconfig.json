@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "lib": ["es2021", "dom"],
+    "types": ["cypress", "node"],
+    "allowJs": true,
+    "baseUrl": "./",
+    "paths": {
+      "@pageObjects/*": ["cypress/pageObjects/*"],
+      "@support/*": ["cypress/support/*"]
+    },
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["**/*.ts", "**/*.js"]
+}
+
