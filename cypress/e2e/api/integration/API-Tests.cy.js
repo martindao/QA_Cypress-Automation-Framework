@@ -8,11 +8,11 @@ describe('API Testing', () => {
 
         Cypress.config('baseUrl', 'https://reqres.in')
     
-        /**
-         * Test GET API endpoint
-         * Verifies user list retrieval and response structure
-         */
-        it('Test 1 - GET API testing Using API ', () => {
+	/**
+	* @testCase XRAY-103
+	* @description Test GET API endpoint - verifies user list retrieval and response structure
+	*/
+	it('Test 1 - GET API testing Using API ', () => {
             cy.request('/api/users?page=2').then((response) => {
                 expect(response).to.have.property('status', 200)
                 expect(response.body).to.not.be.null

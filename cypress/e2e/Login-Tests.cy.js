@@ -20,14 +20,11 @@ describe('UI Authentication Tests', function () {
         })
     })
 
-    /**
-     * Tests successful login with valid credentials
-     * Verifies:
-     * - Form interaction
-     * - Successful navigation
-     * - Dashboard elements visibility
-     */
-    it('should sign in successfully with valid credentials', function () {
+	/**
+	* @testCase XRAY-201
+	* @description Verifies successful login with valid credentials redirects to dashboard
+	*/
+	it('should sign in successfully with valid credentials', function () {
         // Attempt login with valid credentials and verify dashboard
         cy.visit('https://react-redux.realworld.io/#/login')
         login.email().type('martin.dao@example.com')
@@ -70,14 +67,11 @@ describe('UI Authentication Tests', function () {
             .should('be.visible')
     })
 
-    /**
-     * Tests login error handling
-     * Verifies system response to:
-     * - Invalid credentials
-     * - Network errors
-     * - Server errors
-     */
-    it('should handle login errors appropriately', function () {
+	/**
+	* @testCase XRAY-202
+	* @description Verifies login error handling for invalid credentials and server errors
+	*/
+	it('should handle login errors appropriately', function () {
         // Test error handling for invalid credentials and server/network errors
         cy.visit('https://react-redux.realworld.io/#/login')
         

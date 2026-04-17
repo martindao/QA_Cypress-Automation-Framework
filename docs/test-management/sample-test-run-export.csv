@@ -1,0 +1,6 @@
+testCaseId,testName,status,durationMs,timestamp,sourceSpec
+XRAY-101,should complete full user lifecycle,Pass,1247,2026-04-16T10:30:00Z,cypress/e2e/api/integration/userWorkflow.cy.js
+XRAY-102,should validate user authentication flow,Pass,892,2026-04-16T10:30:02Z,cypress/e2e/api/integration/userWorkflow.cy.js
+XRAY-103,should handle API error responses,Fail,456,2026-04-16T10:30:04Z,cypress/e2e/api/integration/userWorkflow.cy.js
+XRAY-201,should sign in successfully with valid credentials,Pass,2341,2026-04-16T10:30:06Z,cypress/e2e/ui/login.cy.js
+XRAY-202,should validate login form fields,Pass,1567,2026-04-16T10:30:09Z,cypress/e2e/ui/login.cy.js

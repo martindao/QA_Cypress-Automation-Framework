@@ -6,16 +6,11 @@
 describe('API Integration Tests - User Workflow', () => {
   let userId;
 
-  /**
-   * Tests the complete user lifecycle including:
-   * 1. User creation (POST /users)
-   * 2. User update (PUT /users/{id})
-   * 3. User deletion (DELETE /users/{id})
-   * 
-   * Verifies proper status codes and response data
-   * at each step of the workflow
-   */
-  it('should complete full user lifecycle', () => {
+	/**
+	* @testCase XRAY-101
+	* @description Tests the complete user lifecycle including creation, update, and deletion
+	*/
+	it('should complete full user lifecycle', () => {
     // Create user with initial data
     cy.apiRequest('POST', '/users', {
       body: {
@@ -44,16 +39,11 @@ describe('API Integration Tests - User Workflow', () => {
     })
   })
 
-  /**
-   * Tests the user authentication flow:
-   * 1. Login with valid credentials (POST /login)
-   * 2. Verify token generation
-   * 3. Use token for authenticated request (GET /users)
-   * 
-   * Ensures proper authentication and authorization
-   * using JWT token-based authentication
-   */
-  it('should validate user authentication flow', () => {
+	/**
+	* @testCase XRAY-102
+	* @description Tests the user authentication flow with JWT token validation
+	*/
+	it('should validate user authentication flow', () => {
     // Attempt login with valid credentials
     cy.apiRequest('POST', '/login', {
       body: {
